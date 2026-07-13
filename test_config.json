@@ -1,0 +1,100 @@
+{
+  "General": {
+    "TimedPointsReward": {
+      "Enabled": true,
+      "Interval": 1,
+      "Amount": 100
+    },
+    "ItemsPerPage": 15
+  },
+  "ShopItems": {
+    "metalingots": {
+      "Type": "item",
+      "Description": "100x Metal Ingots",
+      "Price": 50,
+      "DefaultAmount": 0,
+      "Items": [
+        {
+          "Amount": 100,
+          "Quality": 0,
+          "ForceBlueprint": false,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_MetalIngot.PrimalItemResource_MetalIngot'"
+        }
+      ]
+    },
+    "pike": {
+      "Type": "item",
+      "Description": "Ascendant Pike",
+      "Price": 200,
+      "DefaultAmount": 5,
+      "Items": [
+        {
+          "Amount": 1,
+          "Quality": 5,
+          "ForceBlueprint": false,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponPike.PrimalItem_WeaponPike'"
+        }
+      ]
+    },
+    "tools": {
+      "Type": "item",
+      "Description": "Metal Tools (Pick + Hatchet)",
+      "Price": 75,
+      "DefaultAmount": 0,
+      "Items": [
+        {
+          "Amount": 1,
+          "Quality": 3,
+          "ForceBlueprint": false,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick'"
+        },
+        {
+          "Amount": 1,
+          "Quality": 3,
+          "ForceBlueprint": false,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalHatchet.PrimalItem_WeaponMetalHatchet'"
+        }
+      ]
+    },
+    "parasaur": {
+      "Type": "dino",
+      "Description": "Level 100 Parasaur",
+      "Price": 150,
+      "DefaultAmount": 0,
+      "Dinos": [
+        {
+          "Level": 100,
+          "Neutered": false,
+          "Gender": "random",
+          "PreventCryo": false,
+          "SaddleBlueprint": "",
+          "Blueprint": "Blueprint'/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP'"
+        }
+      ]
+    },
+    "carnopair": {
+      "Type": "dino",
+      "Description": "Carno Breeding Pair",
+      "Price": 500,
+      "DefaultAmount": 2,
+      "Dinos": [
+        {
+          "Level": 150,
+          "Neutered": false,
+          "Gender": "male",
+          "PreventCryo": false,
+          "SaddleBlueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarnoSaddle.PrimalItemArmor_CarnoSaddle'",
+          "Blueprint": "Blueprint'/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP'"
+        },
+        {
+          "Level": 150,
+          "Neutered": false,
+          "Gender": "female",
+          "PreventCryo": false,
+          "SaddleBlueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarnoSaddle.PrimalItemArmor_CarnoSaddle'",
+          "Blueprint": "Blueprint'/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP'"
+        }
+      ]
+    }
+  }
+}
