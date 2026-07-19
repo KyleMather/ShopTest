@@ -17,7 +17,7 @@
         {
           "Amount": 100,
           "Quality": 0,
-          "ForceBlueprint": false,
+          "ForceBlueprint": true,
           "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_MetalIngot.PrimalItemResource_MetalIngot'"
         }
       ]
@@ -31,7 +31,7 @@
         {
           "Amount": 1,
           "Quality": 5,
-          "ForceBlueprint": false,
+          "ForceBlueprint": true,
           "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponPike.PrimalItem_WeaponPike'"
         }
       ]
@@ -57,7 +57,7 @@
         {
           "Amount": 1,
           "Quality": 3,
-          "ForceBlueprint": false,
+          "ForceBlueprint": true,
           "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalHatchet.PrimalItem_WeaponMetalHatchet'"
         },
         {
@@ -75,7 +75,7 @@
         {
           "Amount": 1,
           "Quality": 3,
-          "ForceBlueprint": false,
+          "ForceBlueprint": true,
           "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalHatchet.PrimalItem_WeaponMetalHatchet'"
         },
         {
