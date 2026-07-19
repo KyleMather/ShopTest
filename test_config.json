@@ -132,6 +132,46 @@
         }
       ]
     },
+    "Giga": {
+      "Type": "dino",
+      "Description": "Level 100 Giga",
+      "Price": 150,
+      "DefaultAmount": 0,
+      "Dinos": [
+        {
+          "Level": 100,
+          "Neutered": true,
+          "Gender": "female",
+          "PreventCryo": false,
+          "SaddleBlueprint": "",
+          "Blueprint": "Blueprint'/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP.BionicGigant_Character_BP'"
+        }
+      ]
+    },   
+    "StegoPair": {
+      "Type": "dino",
+      "Description": "Level 100 Giga",
+      "Price": 150,
+      "DefaultAmount": 0,
+      "Dinos": [
+        {
+          "Level": 100,
+          "Neutered": true,
+          "Gender": "female",
+          "PreventCryo": true,
+          "SaddleBlueprint": "",
+          "Blueprint": "Blueprint'/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP'"
+        },
+        {
+          "Level": 100,
+          "Neutered": true,
+          "Gender": "male",
+          "PreventCryo": true,
+          "SaddleBlueprint": "",
+          "Blueprint": "Blueprint'/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP'"
+        }        
+      ]
+    },      
     "carnopair": {
       "Type": "dino",
       "Description": "Carno Breeding Pair",
