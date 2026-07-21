@@ -2,11 +2,11 @@
   "General": {
     "TimedPointsReward": {
       "Enabled": true,
-      "Interval": 1,
+      "Interval": 10,
       "Amount": 100
     },
     "ItemsPerPage": 15,
-    "WipeTime": 1752451200
+    "WipeTime": 1784658000
   },
   "ShopItems": {
     "metalingots": {
@@ -126,7 +126,7 @@
       "Type": "kit",
       "Description": "PVP Kit - Unlocks 72 hours after wipe",
       "DefaultAmount": 2,
-      "UnlockTime": 72,
+      "UnlockTime": 1,
       "Items": [
         {
           "Amount": 1,
