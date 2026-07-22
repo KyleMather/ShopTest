@@ -206,6 +206,29 @@
           "Gender": "random"
         }
       ]
-    }
+    },
+    "carbos": {
+      "Type": "package",
+      "Description": "2 carbos",
+      "Price": 10,
+      "Dinos": [
+        {
+          "Blueprint": "Blueprint'/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP'",
+          "Level": 1,
+          "Neutered": false,
+          "SpawnInCryo": false,
+          "SaddleBlueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TurtleSaddle.PrimalItemArmor_TurtleSaddle'",
+          "Gender": "male"
+        },
+        {
+          "Blueprint": "Blueprint'/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP'",
+          "Level": 1,
+          "Neutered": false,
+          "SpawnInCryo": false,
+          "SaddleBlueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TurtleSaddle.PrimalItemArmor_TurtleSaddle'",
+          "Gender": "female"
+        }
+      ]
+    }    
   }
 }
