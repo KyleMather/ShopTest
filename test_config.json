@@ -42,7 +42,19 @@
       "Items": [
         {
           "Amount": 1,
-          "Quality": 3,
+          "Quality": 0,
+          "ForceBlueprint": false,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick'"
+        },
+        {
+          "Amount": 1,
+          "Quality": 1,
+          "ForceBlueprint": false,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick'"
+        },
+        {
+          "Amount": 1,
+          "Quality": 2,
           "ForceBlueprint": false,
           "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick'"
         },
@@ -50,7 +62,25 @@
           "Amount": 1,
           "Quality": 3,
           "ForceBlueprint": false,
-          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalHatchet.PrimalItem_WeaponMetalHatchet'"
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick'"
+        },
+        {
+          "Amount": 1,
+          "Quality": 4,
+          "ForceBlueprint": false,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick'"
+        },
+        {
+          "Amount": 1,
+          "Quality": 5,
+          "ForceBlueprint": false,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick'"
+        },
+        {
+          "Amount": 1,
+          "Quality": 3,
+          "ForceBlueprint": false,
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick'"
         }
       ]
     },
