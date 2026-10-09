@@ -1403,6 +1403,19 @@
           "Gender": "female"
         }
       ]
+    },
+    "Bullets": {
+      "Type": "package",
+      "Description": "Bullets",
+      "Price": 1,
+      "Items": [
+        {
+          "Blueprint": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet'",
+          "Amount": 1000,
+          "Quality": 0,
+          "ForceBlueprint": false
+        }
+      ]
     }
   }
 }
